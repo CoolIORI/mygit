@@ -4,3 +4,4 @@ Git has a mutable index called stage.    add3  add3
 wo de git
 dddddd
 投递员的新的一行
+再来一个啊 啊啊啊啊 
